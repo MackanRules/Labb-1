@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Steg 7 i labben, gör en ändring");
         }
     }
 }
